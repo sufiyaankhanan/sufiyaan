@@ -1,0 +1,31 @@
+/* p{
+    font: size 30;color:black(235, 125, 0, 0.534);font-style: italic;
+} */
+h3{
+    color: rgb(163, 79, 79);
+    font-family:cursive;
+    
+}
+h1{
+    color: brown;
+    font-family:cursive;
+   
+}
+.container{
+    shape-rendering: auto;
+}
+
+img{
+     margin-left: 0px;
+     
+     
+}
+td,tr{
+    border: 1px solid black;
+}
+table{
+    background-color: rgb(12, 223, 230)
+}
+.X{
+    border: 0px
+}
